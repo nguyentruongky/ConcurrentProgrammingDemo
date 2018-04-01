@@ -1,4 +1,5 @@
-# ConcurrentProgrammingDemo
+# ConcurrencyProgrammingDemo
 Demo GCD and NSOperationQueue
 
-See my post here: https://truongky.wordpress.com/2016/01/11/what-the-hell-can-concurrency-programming-help-me/
+Just a quick note for Concurrency programming in iOS. Not very deep about it: http://kynguyen.space/2016/01/11/how_concurrency_help_ios.html
+
